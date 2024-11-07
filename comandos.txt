@@ -1,0 +1,28 @@
+
+-->python -m pip install --upgrade pip
+--> pip install opencv-python
+-->python -m pip install Pillow
+-->pip install  PyQt5
+
+--> paleta de colores 
+
+/* Color Theme Swatches in Hex */
+.Blue--hue-luxury-1-hex { color: #051016; }
+.Blue--hue-luxury-2-hex { color: #183749; }
+.Blue--hue-luxury-3-hex { color: #405B66; }
+.Blue--hue-luxury-4-hex { color: #06070B; }
+.Blue--hue-luxury-5-hex { color: #0C2029; }
+
+/* Color Theme Swatches in RGBA */
+.Blue--hue-luxury-1-rgba { color: rgba(4, 16, 21, 1); }
+.Blue--hue-luxury-2-rgba { color: rgba(23, 54, 73, 1); }
+.Blue--hue-luxury-3-rgba { color: rgba(63, 91, 102, 1); }
+.Blue--hue-luxury-4-rgba { color: rgba(5, 7, 11, 1); }
+.Blue--hue-luxury-5-rgba { color: rgba(11, 31, 40, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Blue--hue-luxury-1-hsla { color: hsla(201, 62, 5, 1); }
+.Blue--hue-luxury-2-hsla { color: hsla(202, 50, 19, 1); }
+.Blue--hue-luxury-3-hsla { color: hsla(197, 22, 32, 1); }
+.Blue--hue-luxury-4-hsla { color: hsla(227, 29, 3, 1); }
+.Blue--hue-luxury-5-hsla { color: hsla(198, 54, 10, 1); }
